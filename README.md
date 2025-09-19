@@ -11,18 +11,17 @@ End-to-End Dashboard Development (Sales, Finance, Marketing, Supply Chain)
 
 ## ✅ Project Overview
 
-AtliQ Hardware, a global leader in computer hardware and accessories, faced significant business setbacks after making strategic decisions based on intuition and basic Excel analysis—particularly with...
-
-To stay competitive against data-driven rivals, the company initiated its first enterprise-level data analytics transformation. The goal: to develop an interactive **Power BI dashboard** providing ...
+AtliQ Hardware, a global leader in computer hardware and accessories, faced significant business setbacks after making strategic decisions based on intuition and basic Excel analysis—particularly with a failed store expansion in the U.S.
+To stay competitive against data-driven rivals, the company initiated its first enterprise-level data analytics transformation. The goal: to develop an interactive **Power BI dashboard** providing providing comprehensive insights across **Finance, Sales, Marketing,** and **Supply Chain** — enabling data-driven decision-making at all levels of leadership.
 
 ## 🎯 Project Objective
 
-**Build a centralized Power BI dashboard** that consolidates key performance metrics across multiple business domains, helping leadership make informed decisions, identify underperformance, optimize...
+**Build a centralized Power BI dashboard** that consolidates key performance metrics across multiple business domains, helping leadership make informed decisions, identify underperformance, optimize supply chain operations, and improve profitability.
 
 ## 🔍 Key Contributions
 
 **🔸 Stakeholder Alignment**  
-- Conducted a project kickoff session to gather requirements and clarify stakeholder expectations.
+- Conducted a **project kickoff** session to gather requirements and clarify stakeholder expectations.
 - Framed critical questions to define project success criteria, user personas, and visualization expectations.
 
 **🔸 Data Modeling**  
