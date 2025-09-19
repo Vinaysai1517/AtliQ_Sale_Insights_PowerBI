@@ -87,5 +87,5 @@ To stay competitive against data-driven rivals, the company initiated its first 
 
 ## 🔗 Resources
 - **Based on:** Codebasics Power BI Roadmap
-- **GitHub Repository:** [Include link if available]
+- **GitHub Repository:** [(https://github.com/Vinaysai1517/AtliQ_Sale_Insights_PowerBI/blob/main/REPORT/360.pbix)]
 - **Dataset Source:** Provided by Data Engineering Team (MySQL)
