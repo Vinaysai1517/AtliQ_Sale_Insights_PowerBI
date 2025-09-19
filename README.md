@@ -1,57 +1,105 @@
-# AtliQ Sales Insights PowerBi Dashboard
+📊 **Business Insights 360 – Power BI Project**
 
-This is a project I replicated from Codebasics PowerBi Youtube playlist. You can find the link of the playlist below.
+**Company:** AtliQ Hardware
+**Role:** Power BI Developer / Data Analyst
+**Tools & Technologies:** Power BI Desktop, SQL, DAX, DAX Studio, Excel, Power BI Service
+**Project Type:** End-to-End Dashboard Development (Sales, Finance, Marketing, Supply Chain)
 
-[Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+✅ **Project Overview**
 
-[Live Report Link](https://www.novypro.com/project/atliq-sales-insights-)
+AtliQ Hardware, a global leader in computer hardware and accessories, faced significant business setbacks after making strategic decisions based on intuition and basic Excel analysis—particularly with a failed store expansion in the U.S.
 
-## Problem statement
+To stay competitive against data-driven rivals, the company initiated its first enterprise-level data analytics transformation. The goal: to develop an interactive **Power BI dashboard** providing comprehensive insights across **Finance, Sales, Marketing,** and **Supply Chain** — enabling **data-driven decision-making** at all levels of leadership.
 
-AtliQ hardware is a company which delivers computer hardware & peripheral 
-Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of
-issues in terms of understanding how the business is performing and what are all the problem company is
-facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers
-to get the current status of the sales and market, as a human behaviour, these people 
-sugar cote the truth and send tons of Excel files instead of disclosing the truth, which made the sales director more frustrated.
-Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
+🎯 **Project Objective**
 
-## Solution 
+Build a centralized Power BI dashboard that consolidates key performance metrics across multiple business domains, helping leadership make informed decisions, identify underperformance, optimize supply chain operations, and improve profitability.
 
-Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into 
-visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
+🔍 **Key Contributions**
+
+**🔸 Stakeholder Alignment**                                                                                                                                                                                                 
+- Conducted a project kickoff session to gather requirements and clarify stakeholder expectations.
+- Framed critical questions to define project success criteria, user personas, and visualization expectations.
+
+**🔸 Data Modeling**
+- Utilized Snowflake schema for efficient and scalable data modeling.
+- Built robust relationships between fact and dimension tables to support analytical queries.
+- Ensured model performance using DAX Studio for optimization and best practices.
+
+**🔸 Power BI Development**
+- Created calculated columns and complex DAX measures for KPIs like:
+- Net Sales
+- Gross Margin
+- Year-to-Date (YTD) & Year-to-Go (YTG)
+- COGS (Cost of Goods Sold)
+- Implemented dynamic visuals:
+- Conditional formatting (icons, color scale)
+- KPI indicators
+- Filter-responsive titles
+- Enhanced user experience using:
+- Bookmarks for visual toggling
+- Button-based navigation across report pages
+- Tooltips for context-specific data
+
+**🔸 Data Engineering & Integration**
+- Connected to MySQL database to import structured data tables.
+- Managed large datasets and optimized refresh schedules using Power BI Gateway.
+- Implemented Git LFS (Large File Storage) to handle large PBIX files on GitHub.
+
+**🔸 Power BI Service Deployment**
+- Published and shared dashboards via Power BI Service.
+- Set up workspace access, defined user roles, and enabled auto-refresh through scheduled gateways.
+- Created a Power BI App for centralized access across departments.
+
+**📂 Data Sources**
+- **Fact Tables:** Sales, Forecasting
+- **Dimension Tables:** Products, Markets, Customers
+- **Cost Tables:** Manufacturing Cost, Freight Cost, Pre- & Post-Invoice Deductions, Gross Prices
+
+ ** 📈 Dashboard Views**
+- **Home Page –** Button-driven navigation to all functional views
+- **Executive Summary –** High-level performance KPIs and trends
+- **Sales View –** Regional and product-level sales performance
+- **Finance View –** Gross margin, deductions, COGS, and net profit analysis
+- **Marketing View –** Channel effectiveness, customer segmentation
+- **Supply Chain View –** Forecast accuracy, cost analysis, and warehouse efficiency
+- **Product View –** Performance by category, division, and variant
+
+**📘 Key Business Concepts Learned**
+- Net Sales vs. Gross Sales
+- Gross Margin, Net Profit, COGS
+- YTD vs. YTG performance tracking
+- Sales channels: Retail, Direct, Distributors
+- Platforms: E-commerce vs. Brick & Mortar
+
+**🧠 Key Learnings**
+- Importance of asking the right business questions before starting a project.
+- Power of data modeling and DAX optimization in report performance.
+- Building dashboards not just for analysis, but for storytelling and decision enablement.
+- Real-world collaboration via Power BI Service, role-based access, and deployment workflows.
+- Delivered a professional-grade Power BI dashboard replicating enterprise standards.
+- Created scalable, optimized, and user-friendly reports for cross-functional use.
+- Gained hands-on experience with stakeholder communication, data handling, and Power BI best practices.
+
+**🔗 Resources**
+- **Based on**: Codebasics Power BI Roadmap
+- **GitHub Repository:** [Include link if available]
+- **Dataset Source:** Provided by Data Engineering Team (MySQL)
 
 
-### AIMS Grid
 
----
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
-and success criteria  of our project.
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550" class="center">
 
-## Steps Followed in this project
 
-1. Performed a High level analysis of data in SQL to get better understanding over the data.
-2. Connected the SQL data set to PowerBI.
-3. Performed ETL and data cleaning on the imported data.
-4. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-5. Created measure for needs and used them for creating visuals in PowerBi.
-6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
 
-## Final result 
 
-#### Initial Dashboard
 
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
 
-#### Updated Dashboard
 
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
 
-#### Interactive dashboard
 
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
+
+
+
+
+
