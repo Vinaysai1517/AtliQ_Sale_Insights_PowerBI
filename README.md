@@ -8,6 +8,7 @@ Power BI Developer / Data Analyst
 Power BI Desktop, SQL, DAX, DAX Studio, Excel, Power BI Service  
 ## Project Type:
 End-to-End Dashboard Development (Sales, Finance, Marketing, Supply Chain)
+Link to [Interactive Dashboard](https://project.novypro.com/ggu4ts)
 
 ## ✅ Project Overview
 
